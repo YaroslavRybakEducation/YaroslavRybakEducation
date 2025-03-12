@@ -6,7 +6,7 @@ You can find on YouTube: <a href="https://youtube.com/channel/UCPHB314_ebKj2wRF0
 
 ### My favourite Game Development:
 
-<p><a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_images/pygame_logo.png" alt="Pygame" width="50"></a>Pygame website is down</p>
+<p><a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_images/pygame_logo.png" alt="Pygame" width="50"></a></p>
 <p><a href="https://raylib.com"><img src="https://raw.githubusercontent.com/raysan5/raylib/refs/heads/master/logo/raylib_1024x1024.png" alt="Raylib" width="50"></a></p>
 
 ### My profile Stats 📊
